@@ -1,0 +1,30 @@
+
+.marque-container{
+    overflow: hidden;
+    width: 100%;
+}
+.marque-container:hover{
+    animation-play-state: paused;
+}
+
+
+.bombo{
+    display: inline-block;
+   margin-top: 5rem;
+   white-space: nowrap;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   animation: marquee 10s linear infinite;
+}
+.bombo span{
+    color: red;
+}
+@keyframes marquee {
+
+    0%{
+        transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(100%);
+    }
+}
