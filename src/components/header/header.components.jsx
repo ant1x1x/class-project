@@ -21,7 +21,7 @@ const Header= ()=>{
             <nav className="navigation">
             
                 <ul  className="List-Navigation">
-                <li className="rela-data"><Link to="/home" className="anchor-text">Home</Link></li>
+                <li className="rela-data"><Link to="/" className="anchor-text">Home</Link></li>
                 <li className="rela-data"><Link to="/products" className="anchor-text">Products</Link></li>
                 <li className="rela-data"><Link to="/promotion" className="anchor-text">Promotion</Link></li>
                 <li className="rela-data"><Link className="anchor-text">Explore</Link></li>
