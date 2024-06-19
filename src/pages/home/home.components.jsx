@@ -1,5 +1,3 @@
-// src/pages/HomePage/HomePage.jsx
-
 import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../../components/header/header.components";
@@ -8,59 +6,29 @@ import "./home.styles.css";
 
 // Import remaining images
 import BottleImage from "../../assetts/images/bottle.jpg";
-
-import Fruir from "../../assetts/images/fruir.webp";
-import Meat from "../../assetts/images/meat.webp";
-import Chick from "../../assetts/images/chick.webp";
-import Rice from "../../assetts/images/rice.jpg";
-import Wine from "../../assetts/images/wine.jpg";
-import Drinks  from "../../assetts/images/drinks.jpg";
-import Bakery from "../../assetts/images/bakery.jpg";
-import Donut from "../../assetts/images/donut.jpg";
-import Coffee from "../../assetts/images/coffee.jpg";
-// import Toy from "../../assetts/images/toy.jpg";
-import Care from "../../assetts/images/care.jpg";
-import Clean  from "../../assetts/images/cleaning.jpg";
-import Man  from "../../assetts/images/1.webp";
-import Tan1  from "../../assetts/images/2.webp";
-import Ban2  from "../../assetts/images/3.webp";
-import Van3  from "../../assetts/images/4.webp";
-import Can4  from "../../assetts/images/5.webp";
-import Aan5  from "../../assetts/images/6.webp";
-import Yan6  from "../../assetts/images/7.jpg";
-import Man7  from "../../assetts/images/8.webp";
-import Man8  from "../../assetts/images/9.jpg";
-import Man9  from "../../assetts/images/10.jpg";
-import Man10  from "../../assetts/images/11.jpg";
-import Man11  from "../../assetts/images/12.webp";
-import Man12  from "../../assetts/images/13.jpg";
-import Man13  from "../../assetts/images/14.jpg";
-import Man14 from "../../assetts/images/15.webp";
-import Man15  from "../../assetts/images/16.webp";
-import Man16  from "../../assetts/images/17.jpg";
-import Man17  from "../../assetts/images/18.webp";
-import Bd  from "../../assetts/images/bd.jpg";
-import fng from "../../assetts/images/fng.jpg";
-import mp from "../../assetts/images/mp.jpg";
-import reci from "../../assetts/images/reci.png"
-import wl from "../../assetts/images/wl.jpg"
-import baby from "../../assetts/images/baby.png"
-import ToyImage from "../../assetts/images/toy.jpg"
-import Liquor from '../../assetts/images/liquor.jpg';
-import ShopriteImage from "../../assetts/images/shoprittee.png";
-import "./home.styles.css";
 import ToyImage from "../../assetts/images/toy.jpg";
 import ShopriteImage from "../../assetts/images/shoprittee.png";
 import Bd from "../../assetts/images/bd.jpg";
 import fng from "../../assetts/images/fng.jpg";
 import mp from "../../assetts/images/mp.jpg";
-
+import reci from "../../assetts/images/reci.png"
+import baby from "../../assetts/images/baby.png"
+import wl from "../../assetts/images/wl.jpg"
+import obj from "../../assetts/images/aaa-scaled.jpg"
 const HomePage = () => {
     const styles = {
         backgroundImage: `url(${ShopriteImage})`,
         backgroundSize: '100%',
         backgroundPosition: '50%',
         height: '60vh',
+        padding: '30px',
+        backgroundRepeat: 'no-repeat'
+    }
+    const shop = {
+        backgroundImage: `url(${obj})`, 
+        backgroundSize: '100%',
+        backgroundPosition: '50%',
+        height: '30vh',
         padding: '30px',
         backgroundRepeat: 'no-repeat'
     }
@@ -86,25 +54,6 @@ const HomePage = () => {
                 </div>
             </div>
 
-            <div>
-                <img src={Coffee} alt="#" className="imag"/>
-                 <p className="pea">Coffee & Tea</p>
-            </div>
-
-            <div>
-                <img src={Liquor} alt="#" className="imag"/>
-                <p className="pea">Liquor</p>
-            </div>
-            
-            <div>
-                <img src={Care} alt="#" className="imag"/>
-                <p className="pea">Personal Care</p>
-            </div>
-
-            <div>
-                <img src={Clean} alt="#" className="imag"/>
-                <p className="pea">Cleaning</p>
-
             <div className="container">
             <div className="disr">
                     {productData.map((item) => (
@@ -116,7 +65,6 @@ const HomePage = () => {
                         </div>
                     ))}
                 </div>
-
             </div>
 
             <section>
@@ -130,106 +78,12 @@ const HomePage = () => {
                 </div>
                 <div className="container">
                 <div className="disr">
-
-
-           <div>
-            <Link to="">
-            <img src={Man} alt="#" className="image"/>
-            </Link>
-            <p className="apel">Cape Leopard Leap Lookout White Wine 750Ml</p>
-           </div>
-
-           <div>
-            <img src={Tan1} alt="#" className="image"/>
-            <p className="apel">Apples (Red) X 12</p>
-           </div>
-
-           <div>
-            <img src={Ban2} alt="#" className="image"/>
-            <p className="apel">Fox’s Chunkie White Chocolate Cookies 180g</p>
-           </div>
-            
-           <div>
-            <img src={Van3} alt="#" className="image"/>
-            <p className="apel">Funtuna Prepacked Eggs X30</p>
-           </div>
-
-           <div>
-            <img src={Can4} alt="#" className="image"/>
-            <p className="apel">Grape Red Seedless</p>
-           </div>
-
-           <div>
-            <img src={Aan5} alt="#" className="image"/>
-            <p className="apel">Chips Pringles 165G, Original</p>
-           </div>
-
-           <div>
-            <img src={Yan6} alt="#" className="image"/>
-            <p className="apel">Peak Full Cream Milk Powder 360g Refill</p>
-           </div>
-
-           <div>
-            <img src={Man7} alt="#" className="image"/>
-            <p className="apel">Apples Green: Golden Delicious X6</p> 
-           </div>
-
-           <div>
-            <img src={Man8} alt="#" className="image"/>
-            <p className="apel">Tampax Super Plus Tampons 20S Pack</p>
-           </div>
-
-           <div>
-            <img src={Man9} alt="#" className="image"/>
-            <p className="apel">Dano Powder Milk 350g</p>
-           </div>
-
-           <div>
-            <img src={Man10} alt="#" className="image"/>
-            <p className="apel">Titus Frozen Fish Gsf 1Kg</p>
-           </div>
-
-           <div>
-            <img src={Man11} alt="#" className="image"/>
-            <p className="apel">Grape Red Globe PP 1S Pack</p>
-           </div>
-
-           <div>
-            <img src={Man12} alt="#" className="image"/>
-            <p className="apel">Pringles 165G, Texas Bbq</p>
-           </div>
-
-           <div>
-            <img src={Man13} alt="#" className="image"/>
-            <p className="apel">Lemon Imported X6</p>
-           </div>
-
-           <div>
-            <img src={Man14} alt="#" className="image"/>
-            <p className="apel">Frosty Bite Ice Cream 550Ml Strawberry</p>
-           </div>
-
-           <div>
-            <img src={Man15} alt="#" className="image"/>
-            <p className="apel">Funtuna Prepacked Eggs X24</p>
-           </div>
-
-           <div>
-            <img src={Man16} alt="#" className="image"/>
-            <p className="apel">Energy Drink Regular Red Bull 6X250ml Can</p>
-           </div>
-
-           <div>
-            <img src={Man17} alt="#" className="image"/>
-            <p className="apel">Apple Royal Gala PP 1S Pack</p>
-           </div>
-
                         {topSellingData.map((item) => (
                             <div key={item.id}>
                                 <Link to={`/top-selling/${item.id}`}>
                                     <img src={item.src} alt={item.alt} className="image" />
                                 </Link>
-                                <p>{item.text}</p>
+                                <p className="apel">{item.text}</p>
                             </div>
                         ))}
                     </div>
@@ -248,7 +102,6 @@ const HomePage = () => {
             <p className="header3">We serve delicious, fresh-baked goods and <br></br> deli sandwiches to our community for years. <br></br> We believe in using only the freshest ingredients, <br></br>and all of our bread and pastries are made…</p>
             <button className="bott">Read more</button>
             
-
         </div>
         <div className="division2">
           <img src={fng} className="imas" alt="#"/>
@@ -261,15 +114,8 @@ const HomePage = () => {
             <h1 className="spanish3">Meat & Poultry</h1>
             <p className="header3">Delicious as a roast with crisp crackling,<br></br> irresistible as sticky finger-licking ribs <br></br> dripping with mouth-watering flavour, or <br></br>flash fried and served in a fragrant stir-fry, <br></br>pork really is the most versatile…</p>
              <button className="bott">Read more</button>
-
-            </div>
-            <div className="division2">
-                <img src={mp} className="imas" alt="#"/>
-                <h1 className="spanish3">Meat & Poultry</h1>
-                <p className="header3">Delicious as a roast with crisp crackling,<br></br> irresistible as sticky finger-licking ribs <br></br> dripping with mouth-watering flavour, or <br></br>flash fried and served in a fragrant stir-fry, <br></br>pork really is the most versatile…</p>
-                 <button className="bott">Read more</button>
-            </div>
-            <div className="division2">
+        </div>
+        <div className="division2">
                 <img src={reci} className="imas" alt="#"/>
                 <h1 className="spanish3">Recipes</h1>
                 <p className="header3">A recipe is a formula of ingredients and a list of instructions for creating prepared foods. It is used to control quality, quantity, and food costs in a foodservice operation. </p>
@@ -287,14 +133,16 @@ const HomePage = () => {
                 <p className="header3">Welcome to our Baby Hub! From pregnancy to your baby’s first steps, we’ve got all the baby tips you need to know for your child’s development. We’ll be your guide as expecting parents through…</p>
                  <button className="bott">Read more</button>
             </div>
-        </div>
-    </section>
-    <section className="sector3">
+
+        </div>  
+</section>
+<section className="sector3">
+    <div style={shop}>
         <div className="division3">
         <h1 className="header4">
         Stay in the know!
         </h1>
-        <span className="spanish6">Sign up today to receive up-to-date information about promotions and discounts.</span>
+        <p className="spanish6">Sign up today to receive up-to-date information about promotions and discounts.</p>
         </div>
         <div className="division5">
         <form action="#" className="form2">
@@ -304,16 +152,30 @@ const HomePage = () => {
         <input className="input-form" type="email" placeholder="Email Address" />
         </form>
         </div>
-        <div>
-            <h1>3 + 8 =</h1>
-            
+        <div className="divison7">
+            <div>
+            <h1 className="ok">3 + 8 =</h1>
+            </div>
+            <input className="form" type="text" placeholder="" />
+            <div>
+                <button className="botox">Subscribe</button>
+            </div>
+        </div>
         </div>
     </section>
-
-        </div>
-    </div>  
-</section>
-
+    <section className="secst">
+        <div className="division10">
+     <div>
+     <h1 className="header10">
+        Reach Your Nearest Store!
+        <br/>
+        
+        </h1>
+        <p className="header11">Save your time by getting access to the nearest store.</p>
+     </div>
+       <button className="bottox">Locate a store</button>
+      </div>
+    </section>
         </>
     );
 };
