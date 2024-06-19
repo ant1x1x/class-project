@@ -143,6 +143,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText9}
                 <br />
                 {product.appleText9Sub}
+                <br />
+                {product.appleTextSub1}
              </p>
            </div>
             <div>
@@ -153,6 +155,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText10}
                <br />
                {product.appleText10Sub}
+               <br />
+               {product.appleText10Sub1}
             </p>
             </div>
         </div>
@@ -210,6 +214,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText15}
                 <br />
                 {product.appleText15Sub}
+                <br />
+                {product.appleText15Sub1}
             </p>
             </div>
         </div>
@@ -255,6 +261,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText19}
                 <br />
                 {product.appleText19Sub}
+                <br />
+                {product.appleText19Sub1}
             </p>
            </div>
             <div>
@@ -265,6 +273,8 @@ const HomeDetails = ({ category}) => {
              {product.appleText20}
              <br />
              {product.appleText20Sub}
+             <br />
+             {product.appleText20Sub1}
             </p>
             </div>
         </div>
@@ -280,6 +290,8 @@ const HomeDetails = ({ category}) => {
              {product.appleText21}
              <br />
              {product.appleText21Sub}
+             <br />
+             {product.appleText21Sub1}
             </p>
            </div>
            <div>
@@ -290,6 +302,8 @@ const HomeDetails = ({ category}) => {
                  {product.appleText22}
                  <br /> 
                  {product.appleText22Sub}
+                 <br />
+                 {product.appleText22Sub1}
               </p>
            </div>
            <div>
@@ -320,6 +334,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText25}
                 <br />
                 {product.appleText25Sub}
+                <br />
+                {product.appleText25Sub1}
                 </p>
             </div>
         </div>
@@ -365,6 +381,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText29}
                 <br />
                 {product.appleText29Sub}
+                <br />
+                {product.appleTextSub1}
             </p>
            </div>
             <div>
@@ -373,6 +391,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText30 }
                 <br />
                 {product.appleText30Sub}
+                <br />
+                {product.appleTextSub1}
             </p>
             </div>
         </div>
@@ -388,6 +408,8 @@ const HomeDetails = ({ category}) => {
             {product.appleText31}
             <br />
             {product.appleText31Sub}
+            <br />
+            {product.appleText31Sub1}
            </p>
            </div>
            <div>
@@ -398,6 +420,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText32}
                 <br />
                 {product.appleText32Sub}
+                <br />
+                {product.appleText32Sub1}
              </p>
            </div>
            <div>
@@ -432,6 +456,8 @@ const HomeDetails = ({ category}) => {
                 {product.appleText35}
                 <br />
                 {product.appleText35Sub}
+                <br />
+                {product.appleTextSub1}
             </p>
             </div>
         </div>
