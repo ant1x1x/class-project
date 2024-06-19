@@ -238,6 +238,277 @@ import Wine38 from './assetts/images/wine38.webp';
 import Wine39 from './assetts/images/wine39.webp';
 import Wine40 from './assetts/images/wine40.webp';
 
+
+// id 6 images
+import Drink1 from './assetts/images/drink1.jpg';
+import Drink2 from './assetts/images/drink2.jpg';
+import Drink3 from './assetts/images/drink3.webp';
+import Drink4 from './assetts/images/drink4.jpg';
+import Drink5 from './assetts/images/drink5.jpg';
+import Drink6 from './assetts/images/drink6.jpg';
+import Drink7 from './assetts/images/drink7.jpg';
+import Drink8 from './assetts/images/drink8.jpg';
+import Drink9 from './assetts/images/drink9.jpg';
+import Drink10 from './assetts/images/drink10.jpg';
+import Drink11 from './assetts/images/drink11.jpg';
+import Drink12 from './assetts/images/drink12.jpg';
+import Drink13 from './assetts/images/drink13.jpg';
+import Drink14 from './assetts/images/drink14.jpg';
+import Drink15 from './assetts/images/drink15.jpg';
+import Drink16 from './assetts/images/drink16.webp';
+import Drink17 from './assetts/images/drink17.jpg';
+import Drink18 from './assetts/images/drink18.jpg';
+import Drink19 from './assetts/images/drink19.jpg';
+import Drink20 from './assetts/images/drink20.jpg';
+import Drink21 from './assetts/images/drink21.jpg';
+import Drink22 from './assetts/images/drink22.png';
+import Drink23 from './assetts/images/drink23.jpg';
+import Drink24 from './assetts/images/drink24.jpg';
+import Drink25 from './assetts/images/drink25.webp';
+import Drink26 from './assetts/images/drink26.webp';
+import Drink27 from './assetts/images/drink27.webp';
+import Drink28 from './assetts/images/drink28.webp';
+import Drink29 from './assetts/images/drink29.webp';
+import Drink30 from './assetts/images/drink30.webp';
+import Drink31 from './assetts/images/drink31.webp';
+import Drink32 from './assetts/images/drink32.webp';
+import Drink33 from './assetts/images/drink33.jpg';
+import Drink34 from './assetts/images/drink34.jpg';
+import Drink35 from './assetts/images/drink35.jpg';
+import Drink36 from './assetts/images/drink36.jpg';
+import Drink37 from './assetts/images/drink37.jpg';
+import Drink38 from './assetts/images/drink38.jpg';
+import Drink39 from './assetts/images/drink39.jpg';
+import Drink40 from './assetts/images/drink40.jpg';
+
+//id 7 images 
+import Bake1 from './assetts/images/bake1.jpg';
+import Bake2 from './assetts/images/bake2.jpg';
+import Bake3 from './assetts/images/bake3.jpg';
+import Bake4 from './assetts/images/bake4.jpg';
+import Bake5 from './assetts/images/bake5.jpg';
+import Bake6 from './assetts/images/bake6.jpg';
+import Bake7 from './assetts/images/bake7.jpg';
+import Bake8 from './assetts/images/bake8.jpg';
+import Bake9 from './assetts/images/bake9.jpg';
+import Bake10 from './assetts/images/bake10.jpg';
+import Bake11 from './assetts/images/bake11.jpg';
+import Bake12 from './assetts/images/bake12.jpg';
+import Bake13 from './assetts/images/bake13.jpg';
+import Bake14 from './assetts/images/bake14.jpg';
+import Bake15 from './assetts/images/bake15.jpg';
+import Bake16 from './assetts/images/bake16.jpg';
+import Bake17 from './assetts/images/bake17.jpg';
+import Bake18 from './assetts/images/bake18.jpg';
+import Bake19 from './assetts/images/bake19.jpg';
+import Bake20 from './assetts/images/bake20.jpg';
+import Bake21 from './assetts/images/bake21.jpg';
+import Bake22 from './assetts/images/bake22.jpg';
+import Bake23 from './assetts/images/bake23.jpg';
+
+// id 8 images 
+import Snack1 from './assetts/images/snack1.jpg';
+import Snack2 from './assetts/images/snack2.jpg';
+import Snack3 from './assetts/images/snack3.jpg';
+import Snack4 from './assetts/images/snack4.jpg';
+import Snack5 from './assetts/images/snack5.jpg';
+import Snack6 from './assetts/images/snack6.jpg';
+import Snack7 from './assetts/images/snack7.jpg';
+import Snack8 from './assetts/images/snack8.jpg';
+import Snack9 from './assetts/images/snack9.jpg';
+import Snack10 from './assetts/images/snack10.jpg';
+import Snack11 from './assetts/images/snack11.jpg';
+import Snack12 from './assetts/images/snack12.jpg';
+import Snack13 from './assetts/images/snack13.jpg';
+import Snack14 from './assetts/images/snack14.jpg';
+import Snack15 from './assetts/images/snack15.jpg';
+import Snack16 from './assetts/images/snack16.jpg';
+import Snack17 from './assetts/images/snack17.jpg';
+import Snack18 from './assetts/images/snack18.jpg';
+import Snack19 from './assetts/images/snack19.jpg';
+import Snack20 from './assetts/images/snack20.jpg';
+import Snack21 from './assetts/images/snack21.jpg';
+import Snack22 from './assetts/images/snack22.jpg';
+import Snack23 from './assetts/images/snack23.jpg';
+import Snack24 from './assetts/images/snack24.jpg';
+import Snack25 from './assetts/images/snack25.jpg';
+import Snack26 from './assetts/images/snack26.jpg';
+import Snack27 from './assetts/images/snack28.jpg';
+import Snack28 from './assetts/images/snack29.jpg';
+import Snack29 from './assetts/images/snack29.jpg';
+import Snack30 from './assetts/images/snack30.jpg';
+import Snack31 from './assetts/images/snack31.jpg';
+import Snack32 from './assetts/images/snack32.jpg';
+import Snack33 from './assetts/images/snack33.jpg';
+import Snack34 from './assetts/images/snack34.jpg';
+import Snack35 from './assetts/images/snack35.jpg';
+import Snack36 from './assetts/images/snack36.jpg';
+import Snack37 from './assetts/images/snack37.jpg';
+import Snack38 from './assetts/images/snack38.jpg';
+import Snack39 from './assetts/images/snack39.jpg';
+import Snack40 from './assetts/images/snack40.jpg';
+
+// id 9 images 
+import Tea1 from './assetts/images/tea1.jpg';
+import Tea2 from './assetts/images/tea2.jpg';
+import Tea3 from './assetts/images/tea3.jpg';
+import Tea4 from './assetts/images/tea4.jpg';
+import Tea5 from './assetts/images/tea5.jpg';
+import Tea6 from './assetts/images/tea6.jpg';
+import Tea7 from './assetts/images/tea7.jpg';
+import Tea8 from './assetts/images/tea8.jpg';
+import Tea9 from './assetts/images/tea9.jpg';
+import Tea10 from './assetts/images/tea10.jpg';
+import Tea11 from './assetts/images/tea11.jpg';
+import Tea12 from './assetts/images/tea12.jpg';
+import Tea13 from './assetts/images/tea13.jpg';
+import Tea14 from './assetts/images/tea14.jpg';
+import Tea15 from './assetts/images/tea15.jpg';
+import Tea16 from './assetts/images/tea16.jpg';
+import Tea17 from './assetts/images/tea17.jpg';
+import Tea18 from './assetts/images/tea18.jpg';
+import Tea19 from './assetts/images/tea19.jpg';
+import Tea20 from './assetts/images/tea20.jpg';
+import Tea21 from './assetts/images/tea21.jpg';
+import Tea22 from './assetts/images/tea22.jpg';
+import Tea23 from './assetts/images/tea23.jpg';
+import Tea24 from './assetts/images/tea24.jpg';
+import Tea25 from './assetts/images/tea25.jpg';
+import Tea26 from './assetts/images/tea26.jpg';
+import Tea27 from './assetts/images/tea27.jpg';
+import Tea28 from './assetts/images/tea28.jpg';
+import Tea29 from './assetts/images/tea29.jpg';
+import Tea30 from './assetts/images/tea30.webp';
+import Tea31 from './assetts/images/tea31.webp';
+import Tea32 from './assetts/images/tea32.webp';
+import Tea33 from './assetts/images/tea33.webp';
+import Tea34 from './assetts/images/tea34.webp';
+import Tea35 from './assetts/images/tea35.webp';
+
+// id 10 images 
+import Liq1 from './assetts/images/liq1.webp';
+import Liq2 from './assetts/images/liq2.webp';
+import Liq3 from './assetts/images/liq3.webp';
+import Liq4 from './assetts/images/liq4.webp';
+import Liq5 from './assetts/images/liq5.webp';
+import Liq6 from './assetts/images/liq6.webp';
+import Liq7 from './assetts/images/liq7.webp';
+import Liq8 from './assetts/images/liq8.webp';
+import Liq9 from './assetts/images/liq9.webp';
+import Liq10 from './assetts/images/liq10.webp';
+import Liq11 from './assetts/images/liq11.webp';
+import Liq12 from './assetts/images/liq12.webp';
+import Liq13 from './assetts/images/liq13.webp';
+import Liq14 from './assetts/images/liq14.webp';
+import Liq15 from './assetts/images/liq15.webp';
+import Liq16 from './assetts/images/liq16.webp';
+import Liq17 from './assetts/images/liq17.webp';
+import Liq18 from './assetts/images/liq18.webp';
+import Liq19 from './assetts/images/liq19.webp';
+import Liq20 from './assetts/images/liq20.webp';
+import Liq21 from './assetts/images/liq21.webp';
+import Liq22 from './assetts/images/liq22.webp';
+import Liq23 from './assetts/images/liq23.webp';
+import Liq24 from './assetts/images/liq24.webp';
+import Liq25 from './assetts/images/liq25.webp';
+import Liq26 from './assetts/images/liq26.webp';
+import Liq27 from './assetts/images/liq27.webp';
+import Liq28 from './assetts/images/liq28.webp';
+import Liq29 from './assetts/images/liq29.webp';
+import Liq30 from './assetts/images/liq30.webp';
+import Liq31 from './assetts/images/liq31.webp';
+import Liq32 from './assetts/images/liq32.webp';
+import Liq33 from './assetts/images/liq33.webp';
+import Liq34 from './assetts/images/liq34.webp';
+import Liq35 from './assetts/images/liq35.webp';
+import Liq36 from './assetts/images/liq36.webp';
+import Liq37 from './assetts/images/liq37.webp';
+import Liq38 from './assetts/images/liq38.webp';
+import Liq39 from './assetts/images/liq39.webp';
+import Liq40 from './assetts/images/liq40.webp';
+
+// id 11 images 
+import Care1 from './assetts/images/care1.jpg';
+import Care2 from './assetts/images/care2.jpg';
+import Care3 from './assetts/images/care3.jpg';
+import Care4 from './assetts/images/care4.jpg';
+import Care5 from './assetts/images/care5.jpg';
+import Care6  from './assetts/images/care6.jpg';
+import Care7 from './assetts/images/care7.jpg';
+import Care8 from './assetts/images/care8.jpg';
+import Care9 from './assetts/images/care9.jpg';
+import Care10 from './assetts/images/care10.jpg';
+import Care11 from './assetts/images/care11.jpg';
+import Care12 from './assetts/images/care12.jpg';
+import Care13 from './assetts/images/care13.jpg';
+import Care14 from './assetts/images/care14.jpg';
+import Care15 from './assetts/images/care15.jpg';
+import Care16 from './assetts/images/care16.jpg';
+import Care17 from './assetts/images/care17.jpg';
+import Care18 from './assetts/images/care18.jpg';
+import Care19 from './assetts/images/care19.jpg';
+import Care20 from './assetts/images/care20.jpg';
+import Care21 from './assetts/images/care21.jpg';
+import Care22 from './assetts/images/care22.jpg';
+import Care23 from './assetts/images/care23.jpg';
+import Care24 from './assetts/images/care24.jpg';
+import Care25 from './assetts/images/care25.jpg';
+import Care26 from './assetts/images/care26.jpg';
+import Care27 from './assetts/images/care27.jpg';
+import Care28 from './assetts/images/care28.jpg';
+import Care29 from './assetts/images/care29.jpg';
+import Care30 from './assetts/images/care30.jpg';
+import Care31 from './assetts/images/care31.jpg';
+import Care32 from './assetts/images/care32.jpg';
+import Care33 from './assetts/images/care33.jpg';
+import Care34 from './assetts/images/care34.jpg';
+import Care35 from './assetts/images/care35.jpg';
+import Care36 from './assetts/images/care36.jpg';
+import Care37 from './assetts/images/care37.jpg';
+import Care38 from './assetts/images/care38.jpg';
+
+// id 12 images 
+import Clean1 from './assetts/images/clean1.jpg';
+import Clean2 from './assetts/images/clean2.jpg';
+import Clean3 from './assetts/images/clean3.jpg';
+import Clean4 from './assetts/images/clean4.jpg';
+import Clean5 from './assetts/images/clean5.jpg';
+import Clean6 from './assetts/images/clean6.jpg';
+import Clean7 from './assetts/images/clean7.jpg';
+import Clean8 from './assetts/images/clean8.jpg';
+import Clean9 from './assetts/images/clean9.jpg';
+import Clean10 from './assetts/images/clean10.jpg';
+import Clean11 from './assetts/images/clean11.jpg';
+import Clean12 from './assetts/images/clean12.jpg';
+import Clean13 from './assetts/images/clean13.jpg';
+import Clean14 from './assetts/images/clean14.jpg';
+import Clean15 from './assetts/images/clean15.jpg';
+import Clean16 from './assetts/images/clean16.jpg';
+import Clean17 from './assetts/images/clean17.jpg';
+import Clean18 from './assetts/images/clean18.jpg';
+import Clean19 from './assetts/images/clean19.jpg';
+import Clean20 from './assetts/images/clean20.jpg';
+import Clean21 from './assetts/images/clean21.jpg';
+import Clean22 from './assetts/images/clean22.jpg';
+import Clean23 from './assetts/images/clean23.jpg';
+import Clean24 from './assetts/images/clean24.jpg';
+import Clean25 from './assetts/images/clean25.jpg';
+import Clean26 from './assetts/images/clean26.jpg';
+import Clean27 from './assetts/images/clean27.jpg';
+import Clean28 from './assetts/images/clean28.jpg';
+import Clean29 from './assetts/images/clean29.jpg';
+import Clean30 from './assetts/images/clean30.jpg';
+import Clean31 from './assetts/images/clean31.jpg';
+import Clean32 from './assetts/images/clean32.jpg';
+import Clean33 from './assetts/images/clean33.jpg';
+import Clean34 from './assetts/images/clean34.jpg';
+import Clean35 from './assetts/images/clean35.jpg';
+import Clean36 from './assetts/images/clean36.jpg';
+import Clean37 from './assetts/images/clean37.jpg';
+import Clean38 from './assetts/images/clean38.jpg';
+import Clean39 from './assetts/images/clean39.jpg';
+import Clean40 from './assetts/images/clean40.jpg';
+
 export const productData = [
     { 
     id: 1,
@@ -813,14 +1084,808 @@ export const productData = [
      appleText40: "Chapeau Merlot Wine",
      appleText40Sub:  "750Ml"
     },
-    { id: 6, src: Drinks, alt: "Non-Alcoholic Drinks", text: "Non-Alcoholic Drinks" },
-    { id: 7, src: Bakery, alt: "Bakery", text: "Bakery" },
-    { id: 8, src: Donut, alt: "Snacks", text: "Snacks" },
-    { id: 9, src: Coffee, alt: "Coffee and Tea", text: "Coffee & Tea" },
-    { id: 10, src: Toy, alt: "Liquor", text: "Liquor" },
-    { id: 11, src: Care, alt: "Personal Care", text: "Personal Care" },
-    { id: 12, src: Clean, alt: "Cleaning", text: "Cleaning" },
+    { 
+      id: 6, 
+      src: Drinks, 
+      alt: "Non-Alcoholic Drinks", 
+      text: "Non-Alcoholic Drinks",
+      src1: Drink1,
+      src2: Drink2,
+      src3: Drink3,
+      src4: Drink4,
+      src5: Drink5,
+      src6: Drink6,
+      src7: Drink7,
+      src8: Drink8,
+      src9: Drink9,
+      src10: Drink10,
+      src11: Drink11,
+      src12: Drink12,
+      src13: Drink13,
+      src14: Drink14,
+      src15: Drink15,
+      src16: Drink16,
+      src17: Drink17,
+      src18: Drink18,
+      src19: Drink19,
+      src20: Drink20,
+      src21: Drink21,
+      src22: Drink22,
+      src23: Drink23,
+      src24: Drink24,
+      src25: Drink25,
+      src26: Drink26,
+      src27: Drink27,
+      src28: Drink28,
+      src29: Drink29,
+      src30: Drink30,
+      src31: Drink31,
+      src32: Drink32,
+      src33: Drink33,
+      src34: Drink34,
+      src35: Drink35,
+      src36: Drink36,
+      src37: Drink37,
+      src38: Drink38,
+      src39: Drink39,
+      src40: Drink40,
+      appleText1: "7Up 33cl Can",
+      appleText2: "7UP 50cl PET",
+      appleText3: "Amstel Malta Can 33Cl",
+      appleText4: "Bigi Cola 35cl PET",
+      appleText5: "Bigi Soft Drink 350Ml",
+      appleTex5Sub: "Apple Flavour",
+      appleText6: "Bigi Soft Drink 350Ml",
+      appleText6Sub: "Chapman Flavour",
+      appleText7: "Bigi Soft Drink 350Ml",
+      appleText7Sub: "Tropical Flavour",
+      appleText8: "Bigi Soft Drink 350Ml",
+      appleText8Sub: "Tropical Flavour",
+      appleText9: "Bigi Soft Drink",
+      appleText9Sub: "600/500Ml Apple",
+      appleText9Sub1: "Flavour",
+      appleText10: "Bigi Soft Drink",
+      appleText10Sub: "600/500Ml Tropical",
+      appleText10Sub1: "Flavour",
+      appleText11: "Blue Boat Freshyo",
+      appleText11Sub: "Yoghurt Drink – 375ml",
+      appleText12: "Chivita Active Zest",
+      appleText12Sub: "Can 330Ml",
+      appleText13: "Coca-Cola 33cl Can",
+      appleText14: "Coca-Cola Original",
+      appleText14Sub: "50cl PET",
+      appleText15: "Drink Schweppes",
+      appleText15Sub: "Tonic Mojito 0.33l",
+      appleText16: "Dubic malt 330ml Can",
+      appleText17: "Fanta Orange 33cl Can",
+      appleText18: "Fanta Orange 350Ml",
+      appleText19: "Fanta Orange 50 Cl",
+      appleText20: "Fayrouz Apple &",
+      appleText20Sub: "Watermelon Soft",
+      appleText20Sub1: "Drink 330ML Can",
+      appleText21: "Fayrouz Pineapple",
+      appleText21Sub: "Sleek Can 33cl",
+      appleText22: "Hydr8 Pineberry 30cl",
+      appleText23: "Hydr8 Strawberry 30cl",
+      appleText24: "Hydr8 Tangy Twist",
+      appleText24Sub: "30cl",
+      appleText25: "Malta Guinness 330ml",
+      appleText25Sub: "can",
+      appleText26: "Malta Guinness 33cl",
+      appleText26Sub: "Can",
+      appleText27: "Malta Guinness Bottle",
+      appleText27Sub: "Clas330M",
+      appleText28: "Maltina Can Soft Drink",
+      appleText28Sub: "33Cl Pineapple",
+      appleText29: "Maltina Can Soft Drink",
+      appleText29Sub: "33Cl Pineapple",
+      appleText30: "Maltina Full Can Tray",
+      appleText30Sub: "Malt Drink",
+      appleText31: "Maltina Vanilla 33cl",
+      appleText31Sub: "Full Can Tray Beer",
+      appleText32: "Maltonic Non",
+      appleText32Sub: "Alcoholic Can Drink",
+      appleText32Sub1: "33Cl",
+      appleText33: "Mirinda Orange 33cl",
+      appleText33Sub: "Can",
+      appleText34: "Mirinda Orange 50cl",
+      appleText34Sub: "PET",
+      appleText35:"Monster Ultra Paradise",
+      appleText35Sub: "Energy Drink 440ML",
+      appleText36: "Old Jamaica Chiariger",
+      appleText36Sub: "Beer 33Cl – 123990",
+      appleText37: "Pepsi 0.5L PET Cola",
+      appleText37Sub: "drink",
+      appleText38: "Pepsi 33cl can Cola",
+      appleText38Sub: "drink",
+      appleText39: "Pepsi Lite 33cl Can",
+      appleText40: "Pop Cola 35cl PET"
+    },
+    { 
+     id: 7, 
+     src: Bakery, 
+     alt: "Bakery",
+      text: "Bakery",
+      src1: Bake1,
+      src2: Bake2,
+      src3: Bake3,
+      src4: Bake4,
+      src5: Bake5,
+      src6: Bake6,
+      src7: Bake7,
+      src8: Bake8,
+      src9: Bake9,
+      src10: Bake10,
+      src11: Bake11,
+      src12: Bake12, 
+      src13: Bake13,
+      src14: Bake14,
+      src15: Bake15,
+      src16: Bake16,
+      src17: Bake17,
+      src18:Bake18,
+      src19: Bake19,
+      src20: Bake20,
+      src21: Bake21,
+      src22: Bake22,
+      src23: Bake23,
+      src24: Bake19,
+      src25: Bake20,
+      src26: Bake6,
+      src27: Bake7,
+      src28: Bake8,
+      src29: Bake9,
+      src30: Bake10,
+      src31: Bake11,
+      src32: Bake12, 
+      src33: Bake13,
+      src34: Bake14,
+      src35: Bake15,
+      src36: Bake16,
+      src37: Bake17,
+      src38:Bake18,
+      src39: Bake19,
+      src40: Bake20,
+      appleText1: "Cake Rectangular",
+      appleText1Sub: "Vanilla Each",
+      appleText2: "Loaf Almond 1S Pack",
+      appleText3: "Cake Slice Square",
+      appleText3Sub: "Black Forest Each",
+      appleText4: "Cupcake Iced Each",
+      appleText5: "Bread Raisin 500G",
+      appleText5Sub: "Pack",
+      appleText6: "Teacake 480G Pack",
+      appleText7: "Sweet White Bread",
+      appleText8: "Buns Chelsea 6S Pack",
+      appleText9: "Madeira Fruit Slice",
+      appleText9Sub: "125G Pack",
+      appleText10: "Bun Rock 100G Pack",
+      appleText11: "French Loaf Seeded",
+      appleText11Sub: "Large 1Ea Pack",
+      appleText12: "Scones Plain 90G Pack",
+      appleText13: "French Loaf Large",
+      appleText13Sub: "Bakery 400G",
+      appleText14: "French Loaf large",
+      appleText14Sub: "200G",
+      appleText15: "Madeira Plain Slice",
+      appleText15Sub:"95G Pack",
+      appleText16: "Queen Cakes Each",
+      appleText17: "Buns Copenhagen 1S",
+      appleText17Sub: "Pack",
+      appleText18: "French Loaf Seeded",
+      appleText18Sub: "Small Bakery Each",
+      appleText19: "Doughnut Coconut 1S",
+      appleText19Sub: "Pack",
+      appleText20: "French Loaf Small",
+      appleText20Sub: "200G",
+      appleText21: "Doughnut Plain 70G",
+      appleText21Sub: "Pack",
+      appleText22: "Rolls White Hotdog 1S",
+      appleText23: "Buns Fun 1S",
+      appleText24: "Doughnut Coconut 1S",
+      appleText24Sub: "Pack",
+      appleText25: "French Loaf Small",
+      appleText25Sub: "200G",
+      appleText26: "Teacake 480G Pack",
+      appleText27: "Sweet White Bread",
+      appleText28: "Buns Chelsea 6S Pack",
+      appleText29: "Madeira Fruit Slice",
+      appleText29Sub: "125G Pack",
+      appleText30: "Bun Rock 100G Pack",
+      appleText31: "French Loaf Seeded",
+      appleText31Sub: "Large 1Ea Pack",
+      appleText32: "Scones Plain 90G Pack",
+      appleText33: "French Loaf Large",
+      appleText33Sub: "Bakery 400G",
+      appleText34: "French Loaf large",
+      appleText34Sub: "200G",
+      appleText35: "Madeira Plain Slice",
+      appleText35Sub:"95G Pack",
+      appleText36: "Queen Cakes Each",
+      appleText37: "Buns Copenhagen 1S",
+      appleText37Sub: "Pack",
+      appleText38: "French Loaf Seeded",
+      appleText38Sub: "Small Bakery Each",
+      appleText39: "Doughnut Coconut 1S",
+      appleText39Sub: "Pack",
+      appleText40: "French Loaf Small",
+      appleText40Sub: "200G"
+     },
+    { 
+     id: 8, 
+     src: Donut, 
+     alt: "Snacks",
+      text: "Snacks",
+      src1: Snack1,
+      src2: Snack2,
+      src3: Snack3,
+      src4: Snack4,
+      src5: Snack5,
+      src6: Snack6,
+      src7: Snack7,
+      src8: Snack8,
+      src9: Snack9,
+      src10: Snack10,
+      src11: Snack11,
+      src12: Snack12,
+      src13: Snack13,
+      src14: Snack14,
+      src15: Snack15,
+      src16: Snack16,
+      src17: Snack17,
+      src18: Snack18,
+      src19: Snack19,
+      src20: Snack20,
+      src21: Snack21,
+      src22: Snack22,
+      src23: Snack23,
+      src24: Snack24,
+      src25: Snack25,
+      src26: Snack26,
+      src27: Snack27,
+      src28: Snack28,
+      src29: Snack29,
+      src30: Snack30,
+      src31: Snack31,
+      src32: Snack32,
+      src33: Snack33,
+      src34: Snack34,
+      src35: Snack35,
+      src36: Snack36,
+      src37: Snack37,
+      src38: Snack38,
+      src39: Snack39,
+      src40: Snack40,
+      appleText1: "2X Snickers 80G",
+      appleText2: "Bounty Miniturs 150G",
+      appleText2Sub: "Pack",
+      appleText3: "Caramel Alpenliebe",
+      appleText3Sub: "30Pc",
+      appleText4: "Cashew Elvira 450G ",
+      appleText5: "Cheese Balls 50G Val",
+      appleText5Sub: "Pack",
+      appleText6: "Chewy Caramel",
+      appleText6Sub: "Alpenliebe 6.5G",
+      appleText7: "Chiin-Chin Debrahs",
+      appleText7Sub:"650G",
+      appleText8: "Chips Plantain Ripe",
+      appleText8Sub: "900G Jar",
+      appleText9: "Chips Pringles 165G",
+      appleText10: "Chips Pringles 165G",
+      appleText11: "Choc Bounty 1S",
+      appleText12: "Choc Snickers 50G",
+      appleText13: "Chocolate Mars 1S",
+      appleText14: "Chocolate Peanut",
+      appleTex14Sub: "M&Ms 45G",
+      appleText15: "Classic Tom Tom 40S",
+      appleText16: "Cream Crackers",
+      appleText16Sub: "Jacobs 200G Pack",
+      appleText17: "Cream Crackers",
+      appleText17Sub: "Jacobs 300G",
+      appleText18: "Cream Mc Vities 42G",
+      appleText19: "Crispy Nutzy Peanut",
+      appleText19Sub: "50G",
+      appleText20: "Danish Butter Cookies",
+      appleText20Sub: "Royal125G",
+      appleText21: "Double Chocolate",
+      appleText21Sub: "Maryland 136G",
+      appleText22: "Golden Phoenix French",
+      appleText22Sub: "Fries 2.5Kg",
+      appleText23: "Golden Phoenix Large",
+      appleText23Sub: "Shrimps 400G",
+      appleText24: "Hamper Large 1Ea",
+      appleText24Sub: "Pack",
+      appleText25: "Hamper Standard 1Ea",
+      appleText25Sub: "Pack",
+      appleText26: "M&Ms 200G, Peanut",
+      appleText27: "M&Ms 200G, Reg",
+      appleText28: "M&Ms 45G, Reg",
+      appleText29: "Mars Miniaturs 150G",
+      appleText29Sub: "Bag",
+      appleText30: "Maryland Cookies",
+      appleText30Sub: "136G",
+      appleText31: "Mcvities Digestive",
+      appleText31Sub: "45G",
+      appleText32: "Mcvities Hobnob 45G",
+      appleText33: "Mcvities Shortbread",
+      appleText33Sub: "280G",
+      appleText34: "Mcvities Tea 200G",
+      appleText34Sub: "Pack",
+      appleText35: "Mcvities Tea 34G",
+      appleText36: "Mcvities Tea 42G",
+      appleText37: "Mentos Pure Fresh",
+      appleText37Sub: "Spearmint 87.5G",
+      appleText38: "Mentos White 38S",
+      appleText39: "Mini Snickers 150G",
+      appleText39Sub: "Pack",
+      appleText40: "Mixed Fruit Skittles",
+      appleText40Sub: "38G"
+    },
+    {
+       id: 9, 
+       src: Coffee,
+       alt: "Coffee and Tea", 
+       text: "Coffee & Tea",
+       src1: Tea1,
+       src2: Tea2,
+       src3: Tea3,
+       src4: Tea4,
+       src5: Tea5,
+       src6: Tea6,
+       src7: Tea7,
+       src8: Tea8,
+       src9: Tea9,
+       src10: Tea10,
+       src11: Tea11,
+       src12: Tea12,
+       src13: Tea13,
+       src14: Tea14,
+       src15: Tea15,
+       src16: Tea16,
+       src17: Tea17,
+       src18: Tea18,
+       src19: Tea19,
+       src20: Tea20,
+       src21: Tea21,
+       src22: Tea22,
+       src23: Tea23,
+       src24: Tea24,
+       src25: Tea25,
+       src26: Tea26,
+       src27: Tea27,
+       src28: Tea28,
+       src29: Tea29,
+       src30: Tea30,
+       src31: Tea31,
+       src32: Tea32,
+       src33: Tea33,
+       src34: Tea34,
+       src35: Tea35,        
+       appleText1: "Beverage Active Go",
+       appleText1Sub: "Milo 400G Sachet",
+       appleText2: "Beverage Bournvita",
+       appleText2Sub: "Cadbury 500G Jar",
+       appleText3: "Beverage Malt",
+       appleText3Sub: "Ovaltine 800G Pouch",
+       appleText4: "Bournvita Adv",
+       appleText4Sub: "Cadbury 900G Can",
+       appleText5: "Bournvita Cadbury",
+       appleText5Sub: "20G Sachet",
+       appleText6: "Cereal Oats Quaker",
+       appleText6Sub: "500G Pack",
+       appleText7: "Chocolate Cowbell",
+       appleText7Sub: "20G",
+       appleText8: "Cocoa Powder",
+       appleText8Sub: "Cadbury 250G",
+       appleText9: "Coffee INST 3 in1",
+       appleText9Sub: "Nescafe 250G",
+       appleText10: "Cowbell Chocolate",
+       appleText10Sub: "550G Pack",
+       appleText11: "Horlicks 300G",
+       appleText12: "Hot Chocolate 3In1",
+       appleText12Sub: "Cadbury 450G",
+       appleText13: "Hot Chocolates 3In1",
+       appleText13Sub: "Cadbury 30G",
+       appleText14: "HotMal Horlicks 500G",
+       appleText15: "Kerrygold Avantage",
+       appleText15Sub: "Filled Milk Powder",
+       appleText15Sub1: "Pouch (12 x 850 gm)",
+       appleText16: "Malt Ovaltine 18G",
+       appleText16Sub: "Sachet",
+       appleText17: "Malt Ovaltine 400G",
+       appleText17Sub: "Sachet",
+       appleText18: "Milk Hollandia 50G",
+       appleText19: "Milk Powder Full",
+       appleText19Sub: "Cream Dano 800G",
+       appleText19Sub1: "Sachet",
+       appleText20: "Milk Powder Full",
+       appleText20Sub: "Cream Kerrygold 320G",
+       appleText21: "Milk Power Avantage",
+       appleText21Sub: "Kerrygold 850G",
+       appleText21Sub1: "Sachet",
+       appleText22: "mochachino",
+       appleText22Sub: "Diabetamil 187.5G",
+       appleText23: "Nesquick 300G, Sberry",
+       appleText24: "Opti-Star  Nesquick",
+       appleText24Sub: "13.5G",
+       appleText25: "Original Horlicks 500G",
+       appleText26: "Ovaltine 1.2Kg Can",
+       appleText27: "Ovaltine 27G Sachet",
+       appleText28: "Powered Soya Milk",
+       appleText28Sub: "Chocolate 750G",
+       appleText29: "Sachet Milo 800G",
+       appleText30: "Original Horlicks 500G",
+       appleText31: "Ovaltine 1.2Kg Can",
+       appleText32: "Ovaltine 27G Sachet",
+       appleText33: "Powered Soya Milk",
+       appleText34: "Chocolate 750G",
+       appleText35: "Sachet Milo 800G"
+     },
+    { 
+      id: 10, 
+      src: Toy, 
+      alt: "Liquor", 
+      text: "Liquor",
+      src1: Liq1,
+      src2: Liq2,
+      src3: Liq3,
+      src4: Liq4,
+      src5: Liq5,
+      src6: Liq6,
+      src7: Liq7,
+      src8: Liq8,
+      src9: Liq9,
+      src10: Liq10,
+      src11: Liq11,
+      src12: Liq12,
+      src13: Liq13, 
+      src14: Liq14,
+      src15: Liq15,
+      src16: Liq16, 
+      src17: Liq17,
+      src18: Liq18, 
+      src19: Liq19,
+      src20: Liq20,
+      src21: Liq21,
+      src22: Liq22,
+      src23: Liq23,
+      src24: Liq24,
+      src25: Liq25,
+      src26: Liq26,
+      src27: Liq27,
+      src28: Liq28,
+      src29: Liq29,
+      src30: Liq30,
+      src31: Liq31,
+      src32: Liq32,
+      src33: Liq33,
+      src34: Liq34,
+      src35: Liq35,
+      src36: Liq36,
+      src37: Liq37,
+      src38: Liq38,
+      src39: Liq39,
+      src40: Liq40,
+      appleText1: "8 Pm Grain Whisky",
+      appleText1Sub: "Special Celbrtn Edi 1L",
+      appleText2: "8Pm Blended",
+      appleText2Sub: "Whisky(Honey) 750Ml",
+      appleText3: "A. De Fussigny",
+      appleText3Sub: "Superieur Cognac",
+      appleText3Sub1: "Bottle 700Ml",
+      appleText4: "Absolut Blue Vodka 1L",
+      appleText5: "Absolut Vodka Blue",
+      appleText5Sub: "40% 0.20l",
+      appleText6: "Absolut Vodka Citron",
+      appleText6Sub: "100 Cl",
+      appleText7: "Absolut Vodka",
+      appleText7Sub: "Mandarin 100 Cl",
+      appleText8: "Mandarin 100 Cl",
+      appleText9: "Absolut Vodka Vanilla",
+      appleText9Sub: "100 Cl",
+      appleText10: "African Secret Cream",
+      appleText10Sub: "Liqueur 750Ml",
+      appleText11: "After Dark Fine Grain",
+      appleText11Sub: "Whisky 750Ml",
+      appleText12: "Alize Gold Passion",
+      appleText12Sub: "Liqueur, 750Ml",
+      appleText13: "American Aviation Gin",
+      appleText13Sub: "750Ml",
+      appleText14: "American Honey",
+      appleText14Sub: "375ml",
+      appleText15: "Angostura rom 5yo",
+      appleText15Sub: "700ml",
+      appleText16: "Bacardi Ex. Rare Gold",
+      appleText16Sub: "Rum 700Ml (10Yrs)",
+      appleText17: "Bacardi Gold Rum",
+      appleText17Sub: "750Ml",
+      appleText18: "Bacardi Ocho Rum",
+      appleText18Sub: "70cl",
+      appleText19: "Bacardi Rum 700ml",
+      appleText19Sub: "Carta Blanca",
+      appleText20: "Bacardi Rum Añejo",
+      appleText20Sub: "Cuatro 70Cl",
+      appleText21: "Bacardi Spiced Rum",
+      appleText21Sub: "700ml",
+      appleText22: "Bailey’s Original Irish",
+      appleText23: "Cream liqueur 0.7 l",
+      appleText24: "Bains Whisky 750Ml",
+      appleText25: "Barbados Foursquare",
+      appleText25Sub: "Spice Rum Wine",
+      appleText25Sub1: "700Ml",
+      appleText26: "Beefeater London Dry",
+      appleText26Sub: "Gin 75Cl",
+      appleText27: "Best Citrus Bottle Gin",
+      appleText27Sub: "750Ml",
+      appleText28: "Best Classic Original",
+      appleText28Sub: "Whisky 200Ml",
+      appleText29: "Best Classic Whisky",
+      appleText29Sub: "Vip Blend 750Ml",
+      appleText30: "Best Gin 20Cl",
+      appleText31: "Best Marula Fruit",
+      appleText31Sub: "Cream Liqueur 20Cl",
+      appleText32: "Best Original Inferno",
+      appleText32Sub: "Malt Whisky 750Ml",
+      appleText33: "Black & White Scotch",
+      appleText33Sub: "Whisky",
+      appleText34: "Black Ram Honey",
+      appleText34Sub: "Whisky 700Ml",
+      appleText35: "Black Ram Whisky",
+      appleText35Sub: "750Ml",
+      appleText36: "Blue & Black Whisky",
+      appleText36Sub: "750Ml",
+      appleText37: "Blue Train Blended",
+      appleText37Sub: "Deluxe Wisky 750Ml",
+      appleText38: "Bols Apricot Brandy",
+      appleText38Sub: "70Cl",
+      appleText39: "Bols Chocolate Vodka",
+      appleText39Sub: "700Ml",
+      appleText40: "Bols Curacao Blue",
+      appleText40Sub: "700Ml"
+    },
+    { 
+     id: 11, 
+     src: Care, 
+     alt: "Personal Care",
+     text: "Personal Care",
+     src1: Care1,
+     src2: Care2,
+     src3: Care3,
+     src4: Care4,
+     src5: Care5,
+     src6: Care6,
+     src7: Care7,
+     src8: Care8,
+     src9: Care9,
+     src10: Care10,
+     src11: Care11,
+     src12: Care12,
+     src13: Care13,
+     src14: Care14,
+     src15: Care15,
+     src16: Care16,
+     src17: Care17,
+     src18: Care18,
+     src19: Care19,
+     src20: Care20,
+     src21: Care21,
+     src22: Care22,
+     src23: Care23,
+     src24: Care24,
+     src25: Care25,
+     src26: Care26,
+     src27: Care27,
+     src28: Care28,
+     src29: Care29,
+     src30: Care30,
+     src31: Care31,
+     src32: Care32,
+     src33: Care33,
+     src34: Care34,
+     src35: Care35,
+     src36: Care36,
+     src37: Care37,
+     src38: Care38,
+     src39: Care27,
+     src40: Care28,
+     appleText1: "2sure Bath Soap",
+     appleText1Sub: "Herbal Plus 120g",
+     appleText2: "Antiseptic Liquid",
+     appleText2Sub: "Savlon 500Ml Pack",
+     appleText3: "Bath Dettol 110G,",
+     appleText3Sub: "Original",
+     appleText4: "Bath Soap Cool",
+     appleText4Sub: "Menthol 2sure 120g",
+     appleText5: "Bath Soap Cool",
+     appleText5Sub: "Original2sure 120g",
+     appleText6: "Bath Soap Milk &",
+     appleText6Sub: "Cucumber Joy 140G",
+     appleText7: "Black Beauty Nature",
+     appleText7Sub: "In 160G",
+     appleText8: "Body Lotion Nivea",
+     appleText8Sub: "400ML, Nourish Cocoa",
+     appleText9: "Exfoliat White Nature",
+     appleText9Sub: "In 160G",
+     appleText10: "Glutathion Skin White",
+     appleText10Sub: "40Ml",
+     appleText11: "Herbal Colgate 140G",
+     appleText12: "Men’s Aero Force Me",
+     appleText12Sub: "Attitude 150ML",
+     appleText13: "Men’s Aero Force Me",
+     appleText13Sub: "Classic 150ML",
+     appleText14: "Men’s Aero Force Me",
+     appleText14Sub: "Romano 150ML",
+     appleText15: "Men’s Roll On Attitude",
+     appleText15Sub: "Romano 50ML",
+     appleText16: "Men’s Roll On Classic",
+     appleText16Sub: "Romano 50ML",
+     appleText17: "Men’s Roll On Force",
+     appleText17Sub: "Me Romano 50ML",
+     appleText18: "Mens Aero Classic",
+     appleText18Sub: "Romano 150Ml",
+     appleText19: "Mens Aero Nivea",
+     appleText19Sub: "200ml Dry Impact",
+     appleText20: "Mens Roll On Nivea",
+     appleText20Sub: "50Ml, Deep",
+     appleText21: "Mouthwash PRM",
+     appleText21Sub: "Listerine 250ML, Sens",
+     appleText22: "Mouthwash PRM",
+     appleText22Sub: "Listerine 250ML, Total",
+     appleText22Sub1: "Care",
+     appleText23: "Perf Deo Alluring",
+     appleText23Sub: "Enchanteur 200Ml",
+     appleText24: "Perf Deo Charming",
+     appleText24Sub: "Enchanteur 200Ml",
+     appleText25: "Perf Deo Gorgeous",
+     appleText25Sub: "Enchanteur 200Ml",
+     appleText26: "Perf Deo Gorgeous",
+     appleText26Sub: "Enchanteur 200ML",
+     appleText27: "Perf Deo Romantic",
+     appleText27Sub: "Enchanteur 200ML",
+     appleText28: "Perf Deo Romantic",
+     appleText28Sub: "Enchanteur 200ML",
+     appleText29: "Perf Deo Rose Oud",
+     appleText29Sub: "Amour Enchanteur",
+     appleText29Sub1: "200Ml",
+     appleText30: "Perf Deo Rose Oud",
+     appleText30Sub: "Amour Enchanteur",
+     appleText30Sub1: "200ML",
+     appleText31: "Perfume Deodorant",
+     appleText31Sub: "Enticing Enchanteur",
+     appleText31Sub1: "200Ml",
+     appleText32: "Powder Silk Skin",
+     appleText32Sub: "White 40Ml",
+     appleText33: "Power whitening Skin",
+     appleText33Sub: "White 40Ml",
+     appleText34: "Toothpaste Clove",
+     appleText34Sub: "Herbal Dabur 140G",
+     appleText35: "Toothpaste Fresh Gel",
+     appleText35Sub:"Miswak Dabur",
+     appleText35Sub1: "90G+36G",
+     appleText36: "Toothpaste Gel Mint &",
+     appleText36Sub: "Lemon Dabur 140G",
+     appleText37: "Toothpaste Herbal",
+     appleText37Sub: "Basil Dabur 140G",
+     appleText38: "Whitening Nature In",
+     appleText38Sub: "160G",
+     appleText39: "Perf Deo Romantic",
+     appleText39Sub: "Enchanteur 200ML",
+     appleText40: "Perf Deo Romantic",
+     appleText40Sub: "Enchanteur 200ML",
+    },
+    { 
+    id: 12, 
+    src: Clean, 
+    alt: "Cleaning", 
+    text: "Cleaning",
+    src1: Clean1,
+    src2: Clean2,
+    src3: Clean3,
+    src4: Clean4,
+    src5: Clean5,
+    src6: Clean6,
+    src7: Clean7,
+    src8: Clean8,
+    src9: Clean9,
+    src10: Clean10,
+    src11: Clean11, 
+    src12: Clean12,
+    src13: Clean13,
+    src14: Clean14,
+    src15: Clean15,
+    src16: Clean16,
+    src17: Clean17,
+    src18: Clean18,
+    src19: Clean19,
+    src20: Clean20,
+    src21: Clean21,
+    src22: Clean22,
+    src23: Clean23,
+    src24: Clean24,
+    src25: Clean25,
+    src26: Clean26,
+    src27: Clean27,
+    src28: Clean28,
+    src29:Clean29,
+    src30: Clean30,
+    src31: Clean31,
+    src32: Clean32,
+    src33: Clean33,
+    src34: Clean34,
+    src35: Clean35,
+    src36: Clean36,
+    src37: Clean37,
+    src38: Clean38,
+    src39: Clean39,
+    src40: Clean40,
+    appleText1: "Air Freshener Gel",
+    appleText1Sub: "Airwick 45G, Rose",
+    appleText2: "Air freshener Ref",
+    appleText2Sub: "Airwick 250Ml, Aqua",
+    appleText3: "Air freshener Ref",
+    appleText3Sub: "Airwick 250Ml, Lav",
+    appleText4: "Air Freshner Gel",
+    appleText4Sub: "Airwick 45G, Lav",
+    appleText5: "Airwick 2X250Ml,",
+    appleText5Sub: "Citrus",
+    appleText6: "Airwick Fmat 250Ml,",
+    appleText6Sub: "Citrus",
+    appleText7: "Ankara & Colour Ariel",
+    appleText7Sub: "2Kg",
+    appleText8: "Ankara Ariel 400G",
+    appleText9: "Antiseptic Liquid",
+    appleText9Sub: "Savlon 250Ml Pack",
+    appleText10: "Antiseptic Liquid",
+    appleText10Sub: "Savlon 500Ml Pack",
+    appleText11: "Antiseptic Liquid",
+    appleText11Sub: "Savlon 750Ml",
+    appleText12: "Ariel Ankara & Colour",
+    appleText12Sub: "800G",
+    appleText13: "Ariel Auto 1.8Kg",
+    appleText14: "Baygon 300ML",
+    appleText15: "Baygon 500Ml Can",
+    appleText16: "Bleach Lime Breeze",
+    appleText16Sub: "Hypo 1L",
+    appleText17: "Bleach Super Hypo 1L",
+    appleText18: "Clear & Style Ariel Auto",
+    appleText18Sub: "1.8Kg",
+    appleText19: "Disinfect Toilet Harpic",
+    appleText19Sub: "725ML, Orig",
+    appleText20: "Fresh Lemon 2Sure 1L",
+    appleText21: "Good Knight 120Ml",
+    appleText22: "Harpic 725Ml, Citrus",
+    appleText23: "High Power Raid",
+    appleText23Sub: "300Ml Can",
+    appleText24: "Hypo 500Ml",
+    appleText25: "Hypo 725Ml",
+    appleText26: "Hypo Citrus H725Ml",
+    appleText27: "Insecticide Lemon",
+    appleText27Sub: "Mortein 600ML Bottle",
+    appleText28: "Insecticide Multi",
+    appleText28Sub: "Purpose Raid 750Ml",
+    appleText29: "Jik 1.4L",
+    appleText30: "Matic So Klin 2Kg",
+    appleText31: "Micro Booster Ariel",
+    appleText31Sub: "2Kg",
+    appleText32: "Morning Fresh Liquid",
+    appleText32Sub: "Wash 1000Ml Original",
+    appleText33: "Morning Fresh Zesty",
+    appleText33Sub: "Lemon Dish Wash",
+    appleText33Sub1: "1000Ml",
+    appleText34: "Multi Good Knight",
+    appleText34Sub: "700Ml Can",
+    appleText35: "Multi Purpose Raid",
+    appleText35Sub: "750Ml",
+    appleText36: "Original Ariel 800G",
+    appleText37: "Pink Sunlight 2Kg",
+    appleText38: "Primary Airwick 1S,",
+    appleText38Sub: "Citrus",
+    appleText39: "Primary Airwick 1S,",
+    appleText39Sub: "Lav Cam",
+    appleText40: "So Klin 850G"
+  },
 ];
+
 
 export const topSellingData = [
     {id: 1, src: Man, alt: "Cape Leopard Leap Lookout White Wine 750Ml", text: "Cape Leopard Leap Lookout White Wine 750Ml" },
