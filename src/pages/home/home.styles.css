@@ -9,7 +9,6 @@ flex-direction: row;
 justify-content: space-around;
 display: flex;
 padding: 6rem;
-margin-top: 6rem;
 }
 .header1{
   font-size: 3rem;
@@ -71,7 +70,7 @@ margin-top: 6rem;
 }
 .sector{
 background-color: rgb(247, 247, 247);
-margin-top: 40rem;
+margin-top: 7rem;
 
 }
 
@@ -96,8 +95,8 @@ margin-top: 40rem;
 
 
 .word1 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+display: grid;
+grid-template-columns: repeat(3, 1fr);
 column-gap: 2rem;
 row-gap: 4rem;
 padding: 1.6rem;

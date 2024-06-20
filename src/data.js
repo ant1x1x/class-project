@@ -7,7 +7,6 @@ import Drinks from "./assetts/images/drinks.jpg";
 import Bakery from "./assetts/images/bakery.jpg";
 import Donut from "./assetts/images/donut.jpg";
 import Coffee from "./assetts/images/coffee.jpg";
-import Toy from "./assetts/images/toy.jpg";
 import Care from "./assetts/images/care.jpg";
 import Clean from "./assetts/images/cleaning.jpg";
 import Man from "./assetts/images/1.webp";
@@ -26,6 +25,9 @@ import Man12 from "./assetts/images/13.jpg";
 import Man13 from "./assetts/images/14.jpg";
 import Man14 from "./assetts/images/15.webp";
 import Man15 from "./assetts/images/16.webp";
+import Man16 from "./assetts/images/17.jpg";
+import Man17 from "./assetts/images/18.webp";
+import Liquor from "./assetts/images/liquor.jpg"
 
 // id 1 images
 import AppleImage from './assetts/images/applefuji.jpg';
@@ -1528,7 +1530,7 @@ export const productData = [
      },
     { 
       id: 10, 
-      src: Toy, 
+      src: Liquor, 
       alt: "Liquor", 
       text: "Liquor",
       src1: Liq1,
@@ -1933,4 +1935,6 @@ export const topSellingData = [
     { id: 14, src: Man13, alt: "Lemon Imported X6", text: "Lemon Imported X6" },
     { id: 15, src: Man14, alt: "Frosty Bite Ice Cream 550Ml Strawberry", text: "Frosty Bite Ice Cream 550Ml Strawberry" },
     { id: 16, src: Man15, alt: "Funtuna Prepacked Eggs X24", text: "Funtuna Prepacked Eggs X24" },
+    { id: 17, src: Man16, alt: "Energy Drink Regular Red Bull 6X250ml Can", text: "Energy Drink Regular Red Bull 6X250ml Can" },
+    { id: 18, src: Man17, alt: "Apple Royal Gala PP 1S Pack", text: "Apple Royal Gala PP 1S Pack" },
 ];
