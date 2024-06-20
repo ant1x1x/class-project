@@ -509,6 +509,13 @@ import Clean38 from './assetts/images/clean38.jpg';
 import Clean39 from './assetts/images/clean39.jpg';
 import Clean40 from './assetts/images/clean40.jpg';
 
+// top selling data 
+import Leo from './assetts/images/leo.webp';
+import Bull1 from './assetts/images/bull1.webp';
+import Bull2 from './assetts/images/bull2.jpg';
+import Bull3 from './assetts/images/bull3.jpg';
+import apples from './assetts/images/apples.webp';
+
 export const productData = [
     { 
     id: 1,
@@ -1887,9 +1894,33 @@ export const productData = [
 ];
 
 
+
 export const topSellingData = [
-    {id: 1, src: Man, alt: "Cape Leopard Leap Lookout White Wine 750Ml", text: "Cape Leopard Leap Lookout White Wine 750Ml" },
-    { id: 2, src: Tan1, alt: "Apples (Red) X 12", text: "Apples (Red) X 12" },
+    {
+     id: 1, 
+     src: Man, 
+     alt: "Cape Leopard Leap Lookout White Wine 750Ml", 
+     text: "Cape Leopard Leap Lookout White Wine 750Ml",
+     src1: Leo,
+     src2: Bull1,
+     src3: Bull2,
+     src4: Bull3,
+     bullText1: "Big Bull Parboiled",
+     bullText1Sub: "Rice Bag 2.25Kg",
+     bullText2: "Chocolate Mini",
+     bullText2Sub: "Snickers 150G",
+     bullText2Sub1: "Pack",
+     bullText3: "Tampax Super",
+     bullText3Sub: "Plus Tampons 20S",
+     bullText3Sub1: "Pack"
+    },
+    { 
+     id: 2, 
+     src: Tan1, 
+     alt: "Apples (Red) X 12", 
+     text: "Apples (Red) X 12",
+     src1: apples, 
+    },
     { id: 3, src: Ban2, alt: "Fox’s Chunkie White Chocolate Cookies 180g", text: "Fox’s Chunkie White Chocolate Cookies 180g" },
     { id: 4, src: Van3, alt: "Funtuna Prepacked Eggs X30", text: "Funtuna Prepacked Eggs X30" },
     { id: 5, src: Can4, alt: "Grape Red Seedless", text: "Grape Red Seedless" },

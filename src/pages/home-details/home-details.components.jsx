@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../../components/header/header.components';
 import { productData } from '../../data';
+import Footer from '../../components/footer/footer.component';
 import ariseImage from '../../assetts/images/shop.jpg';
 import { Link, useParams } from "react-router-dom";
 import "./home-details.styles.css";
@@ -519,6 +520,7 @@ const HomeDetails = ({ category}) => {
             </div>
         </div>
       </div>
+      <Footer />
       </>
     );
 }

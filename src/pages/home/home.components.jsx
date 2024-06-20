@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../../components/header/header.components";
+import Footer from "../../components/footer/footer.component";
 import { productData, topSellingData } from "../../data";
 import "./home.styles.css";
 
@@ -28,7 +29,7 @@ const HomePage = () => {
         backgroundImage: `url(${obj})`, 
         backgroundSize: '100%',
         backgroundPosition: '50%',
-        height: '30vh',
+        height: '40vh',
         padding: '30px',
         backgroundRepeat: 'no-repeat'
     }
@@ -176,7 +177,8 @@ const HomePage = () => {
        <button className="bottox">Locate a store</button>
       </div>
     </section>
-        </>
+    <Footer />
+    </>
     );
 };
 
