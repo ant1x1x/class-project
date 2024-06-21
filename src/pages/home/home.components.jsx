@@ -81,7 +81,7 @@ const HomePage = () => {
                 <div className="disr">
                         {topSellingData.map((item) => (
                             <div key={item.id}>
-                                <Link to={`/top-selling/${item.id}`}>
+                                <Link to="">
                                     <img src={item.src} alt={item.alt} className="image" />
                                 </Link>
                                 <p className="apel">{item.text}</p>
